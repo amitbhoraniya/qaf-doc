@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/</loc>
+     <lastmod>2020-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/latest/docs/</loc>
+     <lastmod>2020-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/latest/prerequisite_java/</loc>
+     <lastmod>2020-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/latest/create_test_project/</loc>
+     <lastmod>2020-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/latest/understand_directory_structure/</loc>
+     <lastmod>2020-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/latest/download/</loc>
+     <lastmod>2020-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/latest/faq/</loc>
+     <lastmod>2020-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/latest/sponsors/</loc>
+     <lastmod>2020-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
